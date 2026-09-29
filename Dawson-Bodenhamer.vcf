@@ -10,11 +10,11 @@ item2.EMAIL;type=INTERNET:tweekythefox@gmail.com
 item2.X-ABLabel:Personal
 TEL;type=CELL;type=VOICE;type=pref:(903) 747-7268
 ADR;type=HOME;type=pref:;;11328 Spur 248;Tyler;TX;75707;United States
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/https%3A//www.linkedin.com/in/dawson-bodenhamer-902939a7/
-X-SOCIALPROFILE;type=facebook:http://www.facebook.com/https%3A//www.facebook.com/dawson.bodenhamer/
-X-SOCIALPROFILE;type=Instagram;x-user="https://www.instagram.com/artist.for.the.king/":x-apple:https%3A//www.instagram.com/artist.for.the.king/
-X-SOCIALPROFILE;type=YouTube;x-user="https://www.youtube.com/@artist.for_the_king":x-apple:https%3A//www.youtube.com/@artist.for_the_king
-X-SOCIALPROFILE;type=IMDb;x-user="https://www.imdb.com/name/nm16065042/":x-apple:https%3A//www.imdb.com/name/nm16065042/
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/dawson-bodenhamer-902939a7/
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/dawson.bodenhamer/
+X-SOCIALPROFILE;type=Instagram:https://www.instagram.com/artist.for.the.king/
+X-SOCIALPROFILE;type=YouTube:https://www.youtube.com/@artist.for_the_king
+X-SOCIALPROFILE;type=IMDb:https://www.imdb.com/name/nm16065042/
 NOTE:Hi there. I'm an actor and steel-certified fight choreographer with 18 years of experience— live steel performances\, stunt work\, and stage combat— and ~10 years ago I started focusing it in on film. Medieval fantasy heart\, born in Texas\, and a passion for any story with a real character arc and something to redeem. Experienced horseman. I thrive on organized sets where everyone has a specific job\, and Yeshua is my King so I bring His work ethic to every one of them.
 item3.URL;type=pref:https://youtube.com/playlist?list=PLoZiOQg0p8xVtwavW0U8DETEgnHyR4OzN&si=1oX3j97n9WLBZ9HH
 item3.X-ABLabel:Demo Reel
